@@ -1,0 +1,17 @@
+C:\Users\azhar\source\repos\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.exe
+C:\Users\azhar\source\repos\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.deps.json
+C:\Users\azhar\source\repos\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.runtimeconfig.json
+C:\Users\azhar\source\repos\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.dll
+C:\Users\azhar\source\repos\CurrencyConverter\bin\Debug\net8.0\CurrencyConverter.pdb
+C:\Users\azhar\source\repos\CurrencyConverter\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\azhar\source\repos\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.csproj.AssemblyReference.cache
+C:\Users\azhar\source\repos\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azhar\source\repos\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.AssemblyInfoInputs.cache
+C:\Users\azhar\source\repos\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.AssemblyInfo.cs
+C:\Users\azhar\source\repos\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\azhar\source\repos\CurrencyConverter\obj\Debug\net8.0\Currency.08E530D3.Up2Date
+C:\Users\azhar\source\repos\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.dll
+C:\Users\azhar\source\repos\CurrencyConverter\obj\Debug\net8.0\refint\CurrencyConverter.dll
+C:\Users\azhar\source\repos\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.pdb
+C:\Users\azhar\source\repos\CurrencyConverter\obj\Debug\net8.0\CurrencyConverter.genruntimeconfig.cache
+C:\Users\azhar\source\repos\CurrencyConverter\obj\Debug\net8.0\ref\CurrencyConverter.dll
